@@ -1,3 +1,9 @@
 body{
     font-family: 'Inter', sans-serif;
 }
+
+.flex-item{
+    display: flex;
+    flex-wrap: wrap;
+    flex-basis: 33%;
+}
